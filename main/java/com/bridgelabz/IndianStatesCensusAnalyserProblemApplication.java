@@ -9,5 +9,4 @@ public class IndianStatesCensusAnalyserProblemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IndianStatesCensusAnalyserProblemApplication.class, args);
 	}
-
 }

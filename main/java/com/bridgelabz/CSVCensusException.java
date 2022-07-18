@@ -13,4 +13,5 @@ public class CSVCensusException extends Exception {
         super(message, cause);
         this.type = type;
     }
+
 }

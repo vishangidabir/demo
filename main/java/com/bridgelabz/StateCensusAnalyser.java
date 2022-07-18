@@ -12,7 +12,6 @@ import java.util.Iterator;
 public class StateCensusAnalyser {
 
     private static final String STATE_CENSUS_DATA_PATH = "./src/test/resources/StateCensusData.csv";
-
     private String STATE_CENSUS_FILE_PATH;
 
     public StateCensusAnalyser(String STATE_CENSUS_FILE_PATH) {
@@ -52,4 +51,5 @@ public class StateCensusAnalyser {
 
         System.out.println("Welcome to Indian States Census Analyser Problem");
     }
+
 }

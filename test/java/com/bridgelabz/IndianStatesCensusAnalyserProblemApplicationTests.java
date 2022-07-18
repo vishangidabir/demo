@@ -9,5 +9,4 @@ class IndianStatesCensusAnalyserProblemApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

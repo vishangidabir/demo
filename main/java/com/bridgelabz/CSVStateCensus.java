@@ -7,6 +7,7 @@ public class CSVStateCensus {
     private String StateCode;
 
     public CSVStateCensus() {
+
     }
 
     public int getSrNo() {

@@ -55,6 +55,5 @@ public class StateCensusAnalyserTest {
             System.out.println(e.getMessage());
             assertEquals("Exception due to Header", e.getMessage());
         }
-
     }
 }
